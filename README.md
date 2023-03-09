@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=+Hi+and+welcome+to+my+github+page,+I'm+Aina.;I+love+to+code.;I+love+learning.;I+love+design.;I+love+to+solve+problems.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/ainabjerke/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=+Hi+and+welcome+to+my+github+page,+I'm+Aina.;I+love+to+code.;I+love+learning.;I+love+design.;I+love+to+solve+problems.;&center=true&width=500&height=50"></a>
 </p>
 
 
