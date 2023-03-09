@@ -66,7 +66,7 @@ const About = () => {
     languages: [ "html", "javascript", "react", "bootstrap", "css", "sass"],
     learning: [ "typescript", "nextjs" ],
     design: [ "ux", "ui", "adobeXd" ],
-    currently_learning: ["Next, Typescript"],
+    currently_learning: ["Next", "Typescript"],
     2023 Goals: ["Create new Projects and learn new Technologies."],
     hobbies: ["Traveling", "photography", "movie", "outdoor training"]
   }
