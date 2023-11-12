@@ -64,6 +64,7 @@ const About = () => {
   }
 
   const skills = {
+    UX/UI Skills: [ "user reserach", "Information arcithecture", "Interaction design", Visual and responsive design", "persona", "prototyping", "usability testing", "design iteration"],
     languages: [ "html", "javascript", "react", "bootstrap", "css", "sass"],
     learning: [ "typescript", "nextjs" ],
     design: [ "ux", "ui", "adobeXd" ],
