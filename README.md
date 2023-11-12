@@ -54,6 +54,7 @@ const About = () => {
     keywords: ["dedicated" "postive", "structured", "funny", "curious" ],
     hobbies: [ "travel", "photography", "movies", "outdoor activity" ],
     education: [
+    "UX/UI design Noroff",
     "Front-end Noroff",
     "Project management BI",
     "Strategic implementation BI",
