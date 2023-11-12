@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">
 </p>
 
-<p align='center'>👩‍💻 I am a front-end developer</p>
+<p align='center'>👩‍💻 I am an UX/UI desginer and front-end developer</p>
 <p align='center'><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  I’m currently working on my portfolio page </p>
 <p align='center'>👩‍🌱 I’m currently learning Next and Typescript </p>
 
